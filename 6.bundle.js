@@ -8,7 +8,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//这里写js\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  //导出一个对象\n  data: function data() {\n    // 注意：组件中的 data 必须是 function\n    return {\n      tempImg: '../src/images/user.png'\n    };\n  },\n  methods: {}\n});\n\n//# sourceURL=webpack:///./src/components/tabbar/MemberContainer.vue?./node_modules/babel-loader/lib!./node_modules/vue-loader/lib??vue-loader-options");
+eval("__webpack_require__.r(__webpack_exports__);\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//这里写js\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  //导出一个对象\n  data: function data() {\n    // 注意：组件中的 data 必须是 function\n    return {\n      tempImg: './images/user.png'\n    };\n  },\n  methods: {}\n});\n\n//# sourceURL=webpack:///./src/components/tabbar/MemberContainer.vue?./node_modules/babel-loader/lib!./node_modules/vue-loader/lib??vue-loader-options");
 
 /***/ }),
 
